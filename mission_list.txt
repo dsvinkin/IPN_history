@@ -1,0 +1,84 @@
+used     Mission (instrument)      Start        End          Comment
+in IPN   name                      date         date
+---------------------------------------------------------------------
+ YES     Helios-2                  1976-01-15   1979-12-13   --
+ YES     ISEE-3 (aka ICE)          1978-08-12   1997-05-05   International Sun-Earth Explorer 3 aka International Cometary Explorer (ICE) 
+ YES     Prognoz-7 (SIGNE-2)       1978-10-30   1979-06-01   end of mission is approximate  
+ YES     Venera-11 (Konus,SIGNE-2) 1978-09-09   1980-02-01   Konus by Ioffe Institute
+ YES     Venera-12 (Konus,SIGNE-2) 1978-09-14   1980-04-18   --
+ YES     Pioneer Venus Orbiter     1978-05-20   1992-10-08   --
+ YES     Venera-13 (Konus)         1981-10-30   1983-04-25   --
+ YES     Venera-14 (Konus)         1981-11-04   1983-04-09   --
+ YES     Ginga (GBD)               1987-02-05   1991-11-01   --
+ YES     Granat (WATCH, Phebus)    1989-12-01   1999-05-25   --
+ YES     Ulysses (GRB)             1990-10-06   2009-06-30   No data from GRB instrument since about 2002
+ YES     CGRO (BATSE)              1991-04-05   2000-06-04   --
+ YES     Yohkoh                    1991-08-31   2001-12-31   --
+ YES     SROSS-C                   1992-05-25   1992-07-14   Stretched Rohini Satellite Series
+ YES     EURECA (WATCH)            1992-07-31   1993-07-01   European Retrievable Carrier, https://www.eoportal.org/satellite-missions/eureca#spacecraft
+ YES     Mars Observer             1992-09-25   1993-08-21   --
+ YES     SROSS-C2 (GRBM)           1994-05-04   2000-07-31   https://ui.adsabs.harvard.edu/abs/2002JApA...23...73S/abstract              
+ YES     Wind (Konus, TGRS)        1994-11-12    --          -- 
+ YES     DMSP-F13                  1995-03-24   2015-02-03   Defense Meteorological Satellite Program, https://space.oscar.wmo.int/satellites/view/dmsp_f13 
+ YES     Cosmos-2326 (Konus-A)     1995-12-20   1997-11-08   by Ioffe Institute
+ YES     RXTE (ASM)                1995-12-30   2012-01-05   --   
+ YES     NEAR (XGRS)               1996-02-17   2001-02-14   --
+ YES     BeppoSAX (GRBM)           1996-04-30   2002-04-30   --
+ YES     Cosmos-2367 (Konus-A2)    1999-12-27   2001-11-20   by Ioffe Institute
+ YES     HETE-2 (FREGATE)          2000-10-09   2006-05-01   --
+ YES     Mars-Odyssey (HEND)       2001-04-07    --          --
+ YES     Coronas-F (Helicon)       2001-08-14   2005-12-06   by Ioffe Institute
+ YES     RHESSI                    2002-02-05   2018-04-11   --   
+ YES     INTEGRAL (SPI-ACS)        2002-10-17    --          --   
+ YES     MESSENGER (GRNS)          2004-08-03   2015-04-30   --   
+ YES     Swift (BAT)               2004-11-20    --          --   
+ YES     Suzaku (WAM)              2005-07-10   2015-09-02   -- 
+ YES     Cosmos-2421 (Konus-A3)    2006-06-25   2008-02-14   by Ioffe Institute  
+ YES     AGILE (MCAL,SA)           2007-04-23    --          --   
+ YES     Fermi (GBM)               2008-06-25    --          -- 
+ YES     Coronas-Photon (Konus-RF) 2009-01-30   2009-11-25   by Ioffe Institute
+ YES     IKAROS (GAP)*             2010-05-21   2015-05-20   --
+ YES     ISS-CALET (GBM)           2015-10-01    --          approximate operation start date
+ YES     Insight-HXMT (HE)         2017-06-15    --          --
+ YES     BepiColombo (MGNS)        2018-10-20    --          --
+ YES     GECAM-B (GRD)             2020-12-10    --          --
+ YES     GECAM-C                   2022-07-27    --          --
+---------------------------------------------------------------------
+  NO     DAWN (GRaND)              2007-07-27    --          https://en.wikipedia.org/wiki/Dawn_(spacecraft), no GRBs reported yet
+  NO     ISS-MAXI                  2009-08-31    --          X-ray monitor, detects GRB afterglows
+  NO     VERNOV (RELEC)            2014-07-16    2015-03-21  activation date given, no GRBs reported **
+  NO     Astrosat (CZTI)           2015-09-28    --          launch date given
+  NO     Lomonosov (BDRG)          2016-04-28    2018-06-30  launch date given
+  NO     COSI                      2016-05-16    2016-07-02  balloon launch date ***
+  NO     ISS-ASIM                  2018-04-13    --          installation date
+  NO     Spektr-RG                 2019-07-30    --          ART-XC switched on date ****
+  NO     POLAR                     2016-09-15    2017-03-01  --
+  NO     GRBAlpha                  2021-03-22    --          CubSat, launch date given
+  NO     VZLUSAT-2                 2022-01-13    --          CubSat, launch date given
+---------------------------------------------------------------------
+Future mission
+Psyche   https://en.wikipedia.org/wiki/Psyche_(spacecraft)
+
+* IKAROS: Interplanetary Kite-craft Accelerated by Radiation Of the Sun 
+GAP - Gamma-Ray Burst Polarimeter
+https://ui.adsabs.harvard.edu/abs/2011PASJ...63..625Y/abstract
+
+** https://space.skyrocket.de/doc_sdat/relek.htm
+http://www.sinp.msu.ru/en/post/21194
+in Russian 
+https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%80%D0%BD%D0%BE%D0%B2_(%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA)
+https://novosti-kosmonavtiki.ru/news/30998/
+
+
+*** Compton Spectrometer and Imager  (COSI) is a large field of view (1/4-sky) gamma-ray (0.1-10 MeV) instrument 
+on a Superpressure Balloon flight that began on 2016 May 16.
+https://cosi.ssl.berkeley.edu
+
+COSI detected GRB 160530A
+https://gcn.gsfc.nasa.gov/other/160530A.gcn3
+
+**** ART-XC detected GRB 210619B
+https://gcn.gsfc.nasa.gov/other/210619B.gcn3
+
+KH table
+https://heasarc.gsfc.nasa.gov/w3browse/all/ipngrb.html
