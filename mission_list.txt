@@ -2,11 +2,11 @@ used     Mission (instrument)      Start        End          Comment
 in IPN   name                      date         date
 ---------------------------------------------------------------------
  YES     Helios-2                  1976-01-15   1979-12-13   --
+ YES     Pioneer Venus Orbiter     1978-05-20   1992-10-08   --
  YES     ISEE-3 (aka ICE)          1978-08-12   1997-05-05   International Sun-Earth Explorer 3 aka International Cometary Explorer (ICE) 
- YES     Prognoz-7 (SIGNE-2)       1978-10-30   1979-06-01   end of mission is approximate  
  YES     Venera-11 (Konus,SIGNE-2) 1978-09-09   1980-02-01   Konus by Ioffe Institute
  YES     Venera-12 (Konus,SIGNE-2) 1978-09-14   1980-04-18   --
- YES     Pioneer Venus Orbiter     1978-05-20   1992-10-08   --
+ YES     Prognoz-7 (SIGNE-2)       1978-10-30   1979-06-01   end of mission is approximate 
  YES     Venera-13 (Konus)         1981-10-30   1983-04-25   --
  YES     Venera-14 (Konus)         1981-11-04   1983-04-09   --
  YES     Ginga (GBD)               1987-02-05   1991-11-01   --
